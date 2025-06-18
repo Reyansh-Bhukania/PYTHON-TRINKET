@@ -1,2 +1,2 @@
-# Hangman
-This code made by python is used as a word guessing game. 
+PYTHON-TRINKET
+These codes are my codes from Trinket.io
